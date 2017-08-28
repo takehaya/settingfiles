@@ -1,4 +1,10 @@
 # 設定ファイル集
 
-## vim_settingfiles
-つまりvimの設定ファイル。
+- vim
+  - vimの設定ファイル。
+- bash
+  - bashの設定ファイル
+- .config
+  - nvim
+  - nyaovim
+  
